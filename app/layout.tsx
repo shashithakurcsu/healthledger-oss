@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     'medical deductible tracker',
     'healthcare expense management',
   ],
-  authors: [{ name: 'HealthLedger contributors', url: 'https://github.com/shashithakurcsu/healthledger' }],
+  authors: [{ name: 'HealthLedger contributors', url: 'https://github.com/shashithakurcsu/healthledger-oss' }],
   creator: 'HealthLedger',
   publisher: 'HealthLedger',
   metadataBase: new URL(APP_URL),

@@ -151,7 +151,7 @@ export default function MarketingLayout({
               </p>
               <p>
                 <a
-                  href="https://github.com/shashithakurcsu/healthledger"
+                  href="https://github.com/shashithakurcsu/healthledger-oss"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="font-medium text-teal-600 hover:text-teal-700 transition-colors"
